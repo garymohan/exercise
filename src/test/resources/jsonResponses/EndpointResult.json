@@ -1,0 +1,1443 @@
+{
+  "venue": [
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4b9f9704f964a5205d2d37e3",
+      "location": {
+        "distance": "184",
+        "postalCode": "SW1P 3JA",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12501576353172372",
+            "label": "display",
+            "lat": "51.49672923934478"
+          }
+        ],
+        "address": "Millbank",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Millbank",
+          "London",
+          "Greater London",
+          "SW1P 3JA",
+          "United Kingdom"
+        ],
+        "lng": "-0.12501576353172372",
+        "cc": "GB",
+        "lat": "51.49672923934478",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Victoria Tower Gardens",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d163941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Park",
+          "shortName": "Park",
+          "pluralName": "Parks"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4e7c4d38183853fb9f712dcb",
+      "location": {
+        "distance": "114",
+        "postalCode": "SE1",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.1208228442967082",
+            "label": "display",
+            "lat": "51.49608859432227"
+          }
+        ],
+        "address": "Southbank, Lambeth Palace Rd",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Southbank, Lambeth Palace Rd",
+          "London",
+          "Greater London",
+          " SE1",
+          "United Kingdom"
+        ],
+        "lng": "-0.1208228442967082",
+        "cc": "GB",
+        "lat": "51.49608859432227",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "2love Tea And Coffee",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1e0931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Coffee Shop",
+          "shortName": "Coffee Shop",
+          "pluralName": "Coffee Shops"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ac518cef964a520f6a520e3",
+      "location": {
+        "distance": "493",
+        "postalCode": "SW1A 0AA",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.124578",
+            "label": "display",
+            "lat": "51.50062"
+          }
+        ],
+        "address": "Parliament Sq",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Parliament Sq (Bridge St)",
+          "London",
+          "Greater London",
+          "SW1A 0AA",
+          "United Kingdom"
+        ],
+        "lng": "-0.124578",
+        "cc": "GB",
+        "lat": "51.50062",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": "Bridge St"
+      },
+      "venuePage": {
+        "id": "54926925"
+      },
+      "name": "Elizabeth Tower (Big Ben) (Big Ben (Elizabeth Tower))",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d12d941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Monument / Landmark",
+          "shortName": "Landmark",
+          "pluralName": "Monuments / Landmarks"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4bb495885148d13a67ac523b",
+      "location": {
+        "distance": "405",
+        "postalCode": "SW1P 2AF",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12765355783368967",
+            "label": "display",
+            "lat": "51.49480549750268"
+          }
+        ],
+        "address": "60 Horseferry Rd",
+        "state": "Greater London",
+        "formattedAddress": [
+          "60 Horseferry Rd",
+          "London",
+          "Greater London",
+          "SW1P 2AF",
+          "United Kingdom"
+        ],
+        "lng": "-0.12765355783368967",
+        "cc": "GB",
+        "lat": "51.49480549750268",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Sapori Café & Restaurant",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d16d941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Café",
+          "shortName": "Café",
+          "pluralName": "Cafés"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4d874db002eb548156a067f5",
+      "location": {
+        "distance": "409",
+        "postalCode": "SW1",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.1276718239433663",
+            "label": "display",
+            "lat": "51.494744352815545"
+          }
+        ],
+        "address": "Horseferry Rd",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Horseferry Rd",
+          "City of Westminster",
+          "Greater London",
+          " SW1",
+          "United Kingdom"
+        ],
+        "lng": "-0.1276718239433663",
+        "cc": "GB",
+        "lat": "51.494744352815545",
+        "country": "United Kingdom",
+        "city": "City of Westminster",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "St John's Gardens",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d163941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Park",
+          "shortName": "Park",
+          "pluralName": "Parks"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4b9539f2f964a520409634e3",
+      "location": {
+        "distance": "457",
+        "postalCode": "SW1A 1AA",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12536597011589945",
+            "label": "display",
+            "lat": "51.5000699819624"
+          }
+        ],
+        "address": "Palace of Westminster",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Palace of Westminster",
+          "London",
+          "Greater London",
+          "SW1A 1AA",
+          "United Kingdom"
+        ],
+        "lng": "-0.12536597011589945",
+        "cc": "GB",
+        "lat": "51.5000699819624",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Westminster Hall",
+      "categories": [
+        {
+          "id": "4deefb944765f83613cdba6e",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Historic Site",
+          "shortName": "Historic Site",
+          "pluralName": "Historic Sites"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "5616766d498e52c7305e148f",
+      "location": {
+        "distance": "494",
+        "postalCode": "SE11 6AJ",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.1170402521691333",
+            "label": "display",
+            "lat": "51.493466071643546"
+          }
+        ],
+        "address": "Newport St",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Newport St",
+          "London",
+          "Greater London",
+          "SE11 6AJ",
+          "United Kingdom"
+        ],
+        "lng": "-0.1170402521691333",
+        "cc": "GB",
+        "lat": "51.493466071643546",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Newport Street Gallery",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1e2931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Art Gallery",
+          "shortName": "Art Gallery",
+          "pluralName": "Art Galleries"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4c7264dcad69b60c7e4483b9",
+      "location": {
+        "distance": "370",
+        "postalCode": "SW1P 2AF",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12713937109640466",
+            "label": "display",
+            "lat": "51.49486063887886"
+          }
+        ],
+        "address": "48 Horseferry Rd",
+        "state": "Greater London",
+        "formattedAddress": [
+          "48 Horseferry Rd",
+          "London",
+          "Greater London",
+          "SW1P 2AF",
+          "United Kingdom"
+        ],
+        "lng": "-0.12713937109640466",
+        "cc": "GB",
+        "lat": "51.49486063887886",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Gianni's",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d16d941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Café",
+          "shortName": "Café",
+          "pluralName": "Cafés"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ac518e9f964a520beab20e3",
+      "location": {
+        "distance": "336",
+        "postalCode": "SW1P 3HA",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12719844356166618",
+            "label": "display",
+            "lat": "51.49596502232967"
+          }
+        ],
+        "address": "Smith Square",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Smith Square",
+          "London",
+          "Greater London",
+          "SW1P 3HA",
+          "United Kingdom"
+        ],
+        "lng": "-0.12719844356166618",
+        "cc": "GB",
+        "lat": "51.49596502232967",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "St. John's, Smith Square",
+      "categories": [
+        {
+          "id": "5032792091d4c4b30a586d5c",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Concert Hall",
+          "shortName": "Concert Hall",
+          "pluralName": "Concert Halls"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4be42b362468c928005dfe42",
+      "location": {
+        "distance": "557",
+        "postalCode": "SW1",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.126802",
+            "label": "display",
+            "lat": "51.500595"
+          }
+        ],
+        "address": "Victoria St",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Victoria St (Westminster Brg)",
+          "London",
+          "Greater London",
+          " SW1",
+          "United Kingdom"
+        ],
+        "lng": "-0.126802",
+        "cc": "GB",
+        "lat": "51.500595",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": "Westminster Brg"
+      },
+      "venuePage": null,
+      "name": "Parliament Square",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d164941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Plaza",
+          "shortName": "Plaza",
+          "pluralName": "Plazas"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "55f00e45498ebe303494b573",
+      "location": {
+        "distance": "214",
+        "postalCode": null,
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11996248565146224",
+            "label": "display",
+            "lat": "51.49520957211074"
+          }
+        ],
+        "address": "Lambeth Palace",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Lambeth Palace (5 Lambeth Palace Rd)",
+          "London",
+          "Greater London",
+          "United Kingdom"
+        ],
+        "lng": "-0.11996248565146224",
+        "cc": "GB",
+        "lat": "51.49520957211074",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": "5 Lambeth Palace Rd"
+      },
+      "venuePage": null,
+      "name": "The Garden Cafe, Lambeth Palace",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d16d941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Café",
+          "shortName": "Café",
+          "pluralName": "Cafés"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ac518dff964a52001aa20e3",
+      "location": {
+        "distance": "513",
+        "postalCode": "SW1P 3BU",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12959288300972766",
+            "label": "display",
+            "lat": "51.49749105618828"
+          }
+        ],
+        "address": "Old Westminster Library",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Old Westminster Library (30-32 Great Smith St.)",
+          "London",
+          "Greater London",
+          "SW1P 3BU",
+          "United Kingdom"
+        ],
+        "lng": "-0.12959288300972766",
+        "cc": "GB",
+        "lat": "51.49749105618828",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": "30-32 Great Smith St."
+      },
+      "venuePage": null,
+      "name": "The Cinnamon Club",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d10f941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Indian Restaurant",
+          "shortName": "Indian",
+          "pluralName": "Indian Restaurants"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "528c7f03498e6dbf2c3645d8",
+      "location": {
+        "distance": "494",
+        "postalCode": "SW1P 2BX",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12948585803087204",
+            "label": "display",
+            "lat": "51.4969251371704"
+          }
+        ],
+        "address": "16 Great Peter Street",
+        "state": "Greater London",
+        "formattedAddress": [
+          "16 Great Peter Street",
+          "London",
+          "Greater London",
+          "SW1P 2BX",
+          "United Kingdom"
+        ],
+        "lng": "-0.12948585803087204",
+        "cc": "GB",
+        "lat": "51.4969251371704",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "itsu",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1d2941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Sushi Restaurant",
+          "shortName": "Sushi",
+          "pluralName": "Sushi Restaurants"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4b8aaf57f964a520aa7932e3",
+      "location": {
+        "distance": "638",
+        "postalCode": "SE1 7UT",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.1169",
+            "label": "display",
+            "lat": "51.501"
+          }
+        ],
+        "address": "200 Westminster Bridge Rd, Lambeth",
+        "state": "Greater London",
+        "formattedAddress": [
+          "200 Westminster Bridge Rd, Lambeth",
+          "London",
+          "Greater London",
+          "SE1 7UT",
+          "United Kingdom"
+        ],
+        "lng": "-0.1169",
+        "cc": "GB",
+        "lat": "51.501",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Park Plaza Westminster Bridge",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1fa931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Hotel",
+          "shortName": "Hotel",
+          "pluralName": "Hotels"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "520f32f611d26659b5718b41",
+      "location": {
+        "distance": "607",
+        "postalCode": null,
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11719472433428284",
+            "label": "display",
+            "lat": "51.500790779557015"
+          }
+        ],
+        "address": "Park Plaza",
+        "state": null,
+        "formattedAddress": [
+          "Park Plaza",
+          "United Kingdom"
+        ],
+        "lng": "-0.11719472433428284",
+        "cc": "GB",
+        "lat": "51.500790779557015",
+        "country": "United Kingdom",
+        "city": null,
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Executive Lounge",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1d5941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Hotel Bar",
+          "shortName": "Hotel Bar",
+          "pluralName": "Hotel Bars"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ac51183f964a52049a020e3",
+      "location": {
+        "distance": "701",
+        "postalCode": "SW1P 4RG",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12696505",
+            "label": "display",
+            "lat": "51.490772"
+          }
+        ],
+        "address": "Millbank",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Millbank",
+          "London",
+          "Greater London",
+          "SW1P 4RG",
+          "United Kingdom"
+        ],
+        "lng": "-0.12696505",
+        "cc": "GB",
+        "lat": "51.490772",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Tate Britain",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1e2931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Art Gallery",
+          "shortName": "Art Gallery",
+          "pluralName": "Art Galleries"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4b8db6a3f964a520130a33e3",
+      "location": {
+        "distance": "498",
+        "postalCode": "SE1 7TP",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12193359312098424",
+            "label": "display",
+            "lat": "51.49192779104699"
+          }
+        ],
+        "address": "Albert Embankment",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Albert Embankment (Salamanca St.)",
+          "London",
+          "Greater London",
+          "SE1 7TP",
+          "United Kingdom"
+        ],
+        "lng": "-0.12193359312098424",
+        "cc": "GB",
+        "lat": "51.49192779104699",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": "Salamanca St."
+      },
+      "venuePage": null,
+      "name": "Tamesis Dock",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d116941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Bar",
+          "shortName": "Bar",
+          "pluralName": "Bars"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ad48899f964a52021e820e3",
+      "location": {
+        "distance": "518",
+        "postalCode": "SE1 7LD",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11500365969823187",
+            "label": "display",
+            "lat": "51.495678785334476"
+          }
+        ],
+        "address": "182 Hercules Rd",
+        "state": "Greater London",
+        "formattedAddress": [
+          "182 Hercules Rd",
+          "London",
+          "Greater London",
+          "SE1 7LD",
+          "United Kingdom"
+        ],
+        "lng": "-0.11500365969823187",
+        "cc": "GB",
+        "lat": "51.495678785334476",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "The Corner Cafe",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d147941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Diner",
+          "shortName": "Diner",
+          "pluralName": "Diners"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "5834ced79343e004a0f897fc",
+      "location": {
+        "distance": "664",
+        "postalCode": "SE1 7DP",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11328384661567936",
+            "label": "display",
+            "lat": "51.49826259739035"
+          }
+        ],
+        "address": "6 Hercules Road, Lambeth",
+        "state": "Greater London",
+        "formattedAddress": [
+          "6 Hercules Road, Lambeth",
+          "London",
+          "Greater London",
+          "SE1 7DP",
+          "United Kingdom"
+        ],
+        "lng": "-0.11328384661567936",
+        "cc": "GB",
+        "lat": "51.49826259739035",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Park Plaza London Waterloo",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1fa931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Hotel",
+          "shortName": "Hotel",
+          "pluralName": "Hotels"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "57540ed1498ef7771538048d",
+      "location": {
+        "distance": "680",
+        "postalCode": "SE1 7HR",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11413582921274207",
+            "label": "display",
+            "lat": "51.49970539325881"
+          }
+        ],
+        "address": "139 Westminster Bridge Road",
+        "state": "Greater London",
+        "formattedAddress": [
+          "139 Westminster Bridge Road",
+          "London",
+          "Greater London",
+          "SE1 7HR",
+          "United Kingdom"
+        ],
+        "lng": "-0.11413582921274207",
+        "cc": "GB",
+        "lat": "51.49970539325881",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "The Travel Cafe",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d16d941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Café",
+          "shortName": "Café",
+          "pluralName": "Cafés"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4bafa216f964a52006123ce3",
+      "location": {
+        "distance": "548",
+        "postalCode": "SE1 7TJ",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.122177",
+            "label": "display",
+            "lat": "51.491478"
+          }
+        ],
+        "address": "18 Albert Embankment, Vauxhall",
+        "state": "Greater London",
+        "formattedAddress": [
+          "18 Albert Embankment, Vauxhall",
+          "London",
+          "Greater London",
+          "SE1 7TJ",
+          "United Kingdom"
+        ],
+        "lng": "-0.122177",
+        "cc": "GB",
+        "lat": "51.491478",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Park Plaza Riverbank",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1fa931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Hotel",
+          "shortName": "Hotel",
+          "pluralName": "Hotels"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ac518b6f964a52002a120e3",
+      "location": {
+        "distance": "586",
+        "postalCode": "SE1 7PB",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.1191256",
+            "label": "display",
+            "lat": "51.5012548"
+          }
+        ],
+        "address": "London County Hall, Westminster Bridge Road",
+        "state": "Greater London",
+        "formattedAddress": [
+          "London County Hall, Westminster Bridge Road",
+          "City of London",
+          "Greater London",
+          "SE1 7PB",
+          "United Kingdom"
+        ],
+        "lng": "-0.1191256",
+        "cc": "GB",
+        "lat": "51.5012548",
+        "country": "United Kingdom",
+        "city": "City of London",
+        "crossStreet": null
+      },
+      "venuePage": {
+        "id": "131922165"
+      },
+      "name": "London Marriott Hotel County Hall",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1fa931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Hotel",
+          "shortName": "Hotel",
+          "pluralName": "Hotels"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "57138ade498eeab33081505f",
+      "location": {
+        "distance": "552",
+        "postalCode": null,
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11965308656110854",
+            "label": "display",
+            "lat": "51.501056045602226"
+          }
+        ],
+        "address": "County Hall",
+        "state": "Greater London",
+        "formattedAddress": [
+          "County Hall",
+          "London",
+          "Greater London",
+          "United Kingdom"
+        ],
+        "lng": "-0.11965308656110854",
+        "cc": "GB",
+        "lat": "51.501056045602226",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Pret A Manger",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1c5941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Sandwich Place",
+          "shortName": "Sandwiches",
+          "pluralName": "Sandwich Places"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ae2b056f964a5204f8f21e3",
+      "location": {
+        "distance": "741",
+        "postalCode": "SW1P 4BY",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.13231140771600738",
+            "label": "display",
+            "lat": "51.49389527652026"
+          }
+        ],
+        "address": "17-19 Regency St.",
+        "state": "Greater London",
+        "formattedAddress": [
+          "17-19 Regency St. (near Horseferry Rd.)",
+          "City of Westminster",
+          "Greater London",
+          "SW1P 4BY",
+          "United Kingdom"
+        ],
+        "lng": "-0.13231140771600738",
+        "cc": "GB",
+        "lat": "51.49389527652026",
+        "country": "United Kingdom",
+        "city": "City of Westminster",
+        "crossStreet": "near Horseferry Rd."
+      },
+      "venuePage": null,
+      "name": "Regency Cafe",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d16d941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Café",
+          "shortName": "Café",
+          "pluralName": "Cafés"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ac518cef964a52021a620e3",
+      "location": {
+        "distance": "790",
+        "postalCode": "SE1 7PB",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11959433555603027",
+            "label": "display",
+            "lat": "51.5032865523857"
+          }
+        ],
+        "address": "The Queen's Walk",
+        "state": "Greater London",
+        "formattedAddress": [
+          "The Queen's Walk (Belvedere Rd)",
+          "London",
+          "Greater London",
+          "SE1 7PB",
+          "United Kingdom"
+        ],
+        "lng": "-0.11959433555603027",
+        "cc": "GB",
+        "lat": "51.5032865523857",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": "Belvedere Rd"
+      },
+      "venuePage": null,
+      "name": "The London Eye",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d165941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Scenic Lookout",
+          "shortName": "Scenic Lookout",
+          "pluralName": "Scenic Lookouts"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "53e41c3d498eaa1264f9f77e",
+      "location": {
+        "distance": "755",
+        "postalCode": "SE1 8SW",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11394401690060052",
+            "label": "display",
+            "lat": "51.50067766931536"
+          }
+        ],
+        "address": "Station Approach Rd",
+        "state": "Greater London",
+        "formattedAddress": [
+          "Station Approach Rd",
+          "London",
+          "Greater London",
+          "SE1 8SW",
+          "United Kingdom"
+        ],
+        "lng": "-0.11394401690060052",
+        "cc": "GB",
+        "lat": "51.50067766931536",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "House of Vans",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d167941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/skate_park_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Skate Park",
+          "shortName": "Skate Park",
+          "pluralName": "Skate Parks"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ac518d3f964a52077a720e3",
+      "location": {
+        "distance": "792",
+        "postalCode": "SW1A 2AQ",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.129305",
+            "label": "display",
+            "lat": "51.502079"
+          }
+        ],
+        "address": "King Charles St",
+        "state": "Greater London",
+        "formattedAddress": [
+          "King Charles St",
+          "London",
+          "Greater London",
+          "SW1A 2AQ",
+          "United Kingdom"
+        ],
+        "lng": "-0.129305",
+        "cc": "GB",
+        "lat": "51.502079",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "Churchill War Rooms (Churchill Museum & Cabinet War Rooms)",
+      "categories": [
+        {
+          "id": "4deefb944765f83613cdba6e",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Historic Site",
+          "shortName": "Historic Site",
+          "pluralName": "Historic Sites"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ceea321d7268cfa9ceeca4e",
+      "location": {
+        "distance": "526",
+        "postalCode": "SE1 7LD",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11482000350952147",
+            "label": "display",
+            "lat": "51.496641083931664"
+          }
+        ],
+        "address": "186 Hercules Rd",
+        "state": "Greater London",
+        "formattedAddress": [
+          "186 Hercules Rd (Waterloo)",
+          "London",
+          "Greater London",
+          "SE1 7LD",
+          "United Kingdom"
+        ],
+        "lng": "-0.11482000350952147",
+        "cc": "GB",
+        "lat": "51.496641083931664",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": "Waterloo"
+      },
+      "venuePage": null,
+      "name": "Dark Sphere",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1f3941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/toys_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Toy / Game Store",
+          "shortName": "Toys & Games",
+          "pluralName": "Toy / Game Stores"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "4ace5183f964a520d5cf20e3",
+      "location": {
+        "distance": "743",
+        "postalCode": "SE1 7AE",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.11393191896812872",
+            "label": "display",
+            "lat": "51.50050110129609"
+          }
+        ],
+        "address": "132 Lower Marsh",
+        "state": "Greater London",
+        "formattedAddress": [
+          "132 Lower Marsh (Leake St)",
+          "Waterloo",
+          "Greater London",
+          "SE1 7AE",
+          "United Kingdom"
+        ],
+        "lng": "-0.11393191896812872",
+        "cc": "GB",
+        "lat": "51.50050110129609",
+        "country": "United Kingdom",
+        "city": "Waterloo",
+        "crossStreet": "Leake St"
+      },
+      "venuePage": null,
+      "name": "Scooter Caffè",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d116941735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Bar",
+          "shortName": "Bar",
+          "pluralName": "Bars"
+        }
+      ]
+    },
+    {
+      "photos": {
+        "count": "0",
+        "groups": []
+      },
+      "id": "543148b9498ec4159f277ce6",
+      "location": {
+        "distance": "637",
+        "postalCode": "SE1 7PB",
+        "labeledLatLngs": [
+          {
+            "lng": "-0.12006535004714862",
+            "label": "display",
+            "lat": "51.50193765161251"
+          }
+        ],
+        "address": "The London Marriott Hotel, County Hall",
+        "state": "Greater London",
+        "formattedAddress": [
+          "The London Marriott Hotel, County Hall",
+          "London",
+          "Greater London",
+          "SE1 7PB",
+          "United Kingdom"
+        ],
+        "lng": "-0.12006535004714862",
+        "cc": "GB",
+        "lat": "51.50193765161251",
+        "country": "United Kingdom",
+        "city": "London",
+        "crossStreet": null
+      },
+      "venuePage": null,
+      "name": "The Library Lounge at Marriott County Hall",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1dc931735",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+            "suffix": ".png"
+          },
+          "primary": "true",
+          "name": "Tea Room",
+          "shortName": "Tea Room",
+          "pluralName": "Tea Rooms"
+        }
+      ]
+    }
+  ]
+}

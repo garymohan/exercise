@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5b830c486a60710d1df922fd"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4cd5475776ab721edc016c6a",
+        "name": "Starbucks",
+        "location": {
+          "address": "400 Oxford St",
+          "lat": 51.514401,
+          "lng": -0.151777,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.514401,
+              "lng": -0.151777
+            }
+          ],
+          "distance": 2856,
+          "postalCode": "W1A 1AB",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "400 Oxford St",
+            "London",
+            "Greater London",
+            "W1A 1AB",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1535315016",
+        "hasPerk": false
+      }
+    ]
+  }
+}
