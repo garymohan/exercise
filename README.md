@@ -62,5 +62,7 @@ out of the interview.
 See also:
 
 https://github.com/Lyricalz/and-developer-test
+
 https://github.com/erperejildo/findVenues
+
 https://github.com/munvegi/venues-app
