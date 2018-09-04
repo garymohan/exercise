@@ -47,7 +47,9 @@ mvn spring-boot:run
 
 Note to future candidates applying at Whitbread: The interviewers didn't seem to have properly 
 read the assignment specification and I spent time arguing with them in the interview about what
-it the actual requirement was.  
+the actual requirement was.  The way the assignment is written, it looks like they only want one 
+path paramater, name.  They actually want more parameters on the endpoint (probably with longitude / 
+latitude as query params).
 
 The answer they wanted was to try to do everything in a single step on Foursquare's explore API.  
 Again, that isn't what the assignment says but it's what they want.  They also want all getters / 
